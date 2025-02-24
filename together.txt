@@ -1,2 +1,3 @@
 My Captsone project is a regression analysis of homelessness statistics in England (nick)
 Sounds interesting! My Capstone project is a Financial Risk classification problem investing the factors which affect whether a loan application is approved. (Oliver)
+For my Capstone Project I take a look at Predicting Credit Card Defaults - A Data-Driven Approach to Financial Risk Management (Nirvana)
